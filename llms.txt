@@ -1,0 +1,18 @@
+# Invisible Character & Blank Space Copier
+> Instant Unicode Empty Space Generator & Live Codepoint Inspector
+
+## Project Overview
+Invisible Character is a lightweight, zero-dependency browser utility designed to copy invisible Unicode characters (such as Hangul Filler U+3164, Zero-Width Space U+200B, and Braille Blank U+2800) with a single click. It includes an interactive validation sandbox and Unicode inspector to test string length, byte weight, and codepoint properties locally.
+
+## Canonical URL
+https://ahmedelazabdev.github.io/invisiblecharacter/
+
+## Core Features
+- One-click copy for Hangul Filler (U+3164), Zero Width Space (U+200B), Braille Pattern Blank (U+2800), and Non-Breaking Space (U+00A0).
+- Multiplier support: Copy 1, 5, 10, or 50 invisible characters simultaneously.
+- Built-in Sandbox Validator: Pasting text breaks down exact UTF-16 hex codepoints, byte counts, and distinguishes between standard whitespace and invisible filler glyphs.
+- Tested compatibility: WhatsApp blank messages, empty nicknames in Discord, PUBG, Free Fire, TikTok, and Instagram line-break retention.
+- 100% Client-Side Privacy: No data transmission, no external trackers, zero backend logging.
+
+## Target Audience
+Gamers creating nameless accounts, community managers, frontend developers testing whitespace sanitization, and social media users formatting bio profiles.
